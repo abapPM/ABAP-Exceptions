@@ -4,7 +4,7 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?color=success)](https://github.com/abapPM/.github/blob/main/CODE_OF_CONDUCT.md)
 [![REUSE Status](https://api.reuse.software/badge/github.com/abapPM/ABAP-Exceptions)](https://api.reuse.software/info/github.com/abapPM/ABAP-Exceptions)
 
-# Error
+# Exceptions
 
 General-purpose exception classes. Support for `RAISE EXCEPTION` statement (recommended and better debugging) and class methods (shorter code).
 
