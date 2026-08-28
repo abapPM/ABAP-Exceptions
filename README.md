@@ -65,17 +65,17 @@ SAP Basis 7.50 or higher
 
 ## Installation
 
-Install `error` as a global module in your system using [apm](https://abappm.com).
+Install `exception` as a global module in your system using [apm](https://abappm.com).
 
 or
 
-Specify the `error` module as a dependency in your project and import it to your namespace using [apm](https://abappm.com).
+Specify the `exception` module as a dependency in your project and import it to your namespace using [apm](https://abappm.com).
 
 ## Contributions
 
 All contributions are welcome! Read our [Contribution Guidelines](https://github.com/abapPM/ABAP-Exceptions/blob/main/CONTRIBUTING.md), fork this repo, and create a pull request.
 
-You can install the developer version of ABAP Error using [abapGit](https://github.com/abapGit/abapGit) either by creating a new online repository for `https://github.com/abapPM/ABAP-Exceptions`.
+You can install the developer version of ABAP Exceptions using [abapGit](https://github.com/abapGit/abapGit) either by creating a new online repository for `https://github.com/abapPM/ABAP-Exceptions`.
 
 Recommended SAP package: `/APMG/EXCEPTIONS`
 
